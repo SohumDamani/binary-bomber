@@ -1,0 +1,48 @@
+.spacing{
+  padding-top:175px;
+  padding-left:90px
+}
+.reduce_spacing{
+  padding-top:1px;
+  padding-bottom:5px;
+}
+.bg { 
+  /* The image used */
+  background-image: url("assets/images/farmer1.jpg");
+  /*background-color: lightsteelblue;
+  background-repeat: repeat;*/
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+}
+.left_gap{
+  padding-left: 10px;
+}
+.navbar-nav { 
+   margin-left: auto; 
+} 
+.heading{
+  font-family: 'Do Hyeon', sans-serif;
+  
+}
+
+.item img {
+    height: 450px !important;
+    width: 850px !important;
+}
+
+.carousel-item {
+ height: 500px;
+    text-align: center;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.
